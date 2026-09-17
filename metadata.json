@@ -1,0 +1,6 @@
+{
+  "name": "CaptionFlow AI",
+  "description": "Browser-based video caption editor with speech recognition, karaoke word highlighting, 16 animation presets, 10 styles, brand kit, brochure palette picker, timeline editor, and client-side export.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
